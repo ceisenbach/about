@@ -1,5 +1,5 @@
 **Noel A HIDALGO**  
-[noneck.org](http://noneck.org]   
+[noneck.org](http://noneck.org]  
 [noel@noneck.org](mailto:noel@noneck.org)  
 
 For the last 15 years, I stood at the crossroads of technology, government, community, and innovation. At this intersection, I have worked on entrepreneurial ideas that changed the world. This has been achieved by traveling extensively and advocating for a free and open internet, accessible and participatory government, open source software, and free culture ideas. 
