@@ -24,7 +24,7 @@ June 2011 - October 2012, New York City, NY and Geneva, CH
 February 2009 - April 2011, New York City and Albany, NY  
 
 **Freelance Video Editor / Citizen Journalist**  
-Clients and partners have included Students for a Free Tibet documenting 2008 Olympic protests in China, promotional videos for Agit-Pop and Twitter VoteReport. As a Citizen Journalist my reports were been broadcasted on RocketBoom, EpicFU / JetSet, GroundReport.tv, Democracy Now!, and ABC's 20/20.
+Clients and partners have included Students for a Free Tibet documenting 2008 Olympic protests in China, promotional videos for Agit-Pop and Twitter VoteReport. As a Citizen Journalist, reports have been featured on RocketBoom, EpicFU / JetSet, GroundReport.tv, Democracy Now!, and ABC's 20/20. Noel keeps a blog on [TechPresident](http://techpresident.com/blog/919), covering technology in government. 
 
 **Community Organizer Positions**  
 
