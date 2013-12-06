@@ -12,14 +12,13 @@ Co-Author, 2013
 bit.ly/nyc3-citizen-guide  
 
 **Executive Director and Co-founder at Beta NYC**  
-March 2009 - Current  
-New York City, NY  
+March 2009 - Current, New York City, NY  
 
 **New York City Program Manager at Code for America**  
 November 2012 - December 2013, New York City, NY  
 
 **Associate Director at the World Economic Forum**  
-June 2011 - October 2012, New York City, NY / Geneva, CH  
+June 2011 - October 2012, New York City, NY and Geneva, CH  
 
 **Director of Technology Innovation at the New York State Senate**  
 February 2009 - April 2011, New York City and Albany, NY  
