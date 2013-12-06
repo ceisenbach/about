@@ -1,11 +1,15 @@
 **Noel A HIDALGO**  
 [noneck.org](http://noneck.org) | [noel@noneck.org](mailto:noel@noneck.org)
 
-He stands at the crossroads of technology, government, community, and innovation. For the last 15 years, he has worked on entrepreneurial ideas that have changed the world. He has traveled extensively advocating for a free and open internet, accessible and participatory government, open source software, and free culture ideas. 
+He stands at the crossroads of technology, government, community, and impact. For the last 15 years, he has worked on entrepreneurial ideas that have changed the world. He has traveled extensively advocating for a free and open internet, accessible and participatory government, open source software, and free culture ideas.
 
-He is the founder of NYC's Drupal community, the #BikeNYC hashtag, and co-founder and executive director of BetaNYC, the nation’s largest local community dedicated to civic technology and open government. He was awarded the rank of Eagle Scout and membership to Royal Society for the encouragement of Arts, Manufactures and Commerce.
+Since 2009, he has organized BetaNYC, the nation's largest municipally focused civic technology, open government, and civic startup community. He is the founder of NYC's Drupal community, the #BikeNYC hashtag, and co-founder and executive director of BetaNYC. He was awarded the rank of Eagle Scout and membership to Royal Society for the encouragement of Arts, Manufactures and Commerce.
 
 **Highlighted Employers & Projects**
+
+**The People's Roadmap to a Digital New York City**  
+Co-Author, 2013  
+bit.ly/nyc3-citizen-guide  
 
 **Executive Director and Co-founder at Beta NYC**  
 March 2009 - Current  
@@ -20,22 +24,16 @@ June 2011 - October 2012, New York City, NY / Geneva, CH
 **Director of Technology Innovation at the New York State Senate**  
 February 2009 - April 2011, New York City and Albany, NY  
 
+**Freelance Video Editor / Citizen Journalist**  
+Clients and partners have included Students for a Free Tibet documenting 2008 Olympic protests in China, promotional videos for Agit-Pop and Twitter VoteReport. As a Citizen Journalist my reports were been broadcasted on RocketBoom, EpicFU / JetSet, GroundReport.tv, Democracy Now!, and ABC's 20/20.
+
+**Community Organizer Positions**  
+
 **Community Manager at Remix America**  
 June 2008 - September 2008, New York, NY  
 
 **Global Explorer on the Luck of Seven**  
 December 2005 - March 2008, The World  
-
-**Creator of TaxiNYC.tv & NYC Yellow Cab Driver**  
-March 2008 – May 2008, New York, NY  
-
-**Consultant to Jay Rosen & NYU's NewAssignment.Net**  
-Summer of 2007, New York, NY  
-
-**Freelance Video Editor / Citizen Journalist**  
-Clients and partners have included Students for a Free Tibet documenting 2008 Olympic protests in China, promotional videos for Agit-Pop and Twitter VoteReport. As a Citizen Journalist my reports have been broadcasted on RocketBoom, EpicFU / JetSet, GroundReport.tv, Democracy Now!, and ABC's 20/20.
-
-**Community Organizer Positions**  
 
 **Outreach Coordinator for Not An Alternative, Inc.**  
 Cofounder of Williamsburg Coworking @ The Change You Want to See  
@@ -53,10 +51,17 @@ Along with members of NYC's political digerati, created a bimonthly salon for bl
 **Drupal NYC Meetups & DrupalCamp NYC**  
 Initiated and organized NYC's Drupal monthly meetups and annual unconference, DrupalCamp. From a small group of 20, the NYC Drupal Community has grown to over 4,000 participants. As for DrupalCamp, NYC initiated the global practice of a free unconference funded by local Drupal Development shops.
 
-**Technology Positions**
+**Technology and Digital Positions**
 
-**Co-Founder and** **Advisor at New Amsterdam Ideas, LLC**  
+**Co-Founder and Advisor at New Amsterdam Ideas, LLC**  
 February 2011 - January 2013, New York City, NY  
+
+**Creator of TaxiNYC.tv & NYC Yellow Cab Driver**  
+March 2008 – May 2008, New York, NY  
+youtube.com/user/taxinyc  
+
+**Consultant to Jay Rosen & NYU's NewAssignment.Net**  
+Summer of 2007, New York, NY  
 
 **Communications Consultant and Technical Adviser**  
 Friends of the British Council, 2010  
