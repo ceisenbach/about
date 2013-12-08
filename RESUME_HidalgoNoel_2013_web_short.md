@@ -11,9 +11,9 @@ Since 2009, he has organized BetaNYC, the nation's largest municipally focused c
 Co-Author, 2013  
 bit.ly/nyc3-citizen-guide  
 
-**Code for America's Brigade Toolkit**
-Co-Author, 2013
-brigade.codeforamerica.org/tools
+**Code for America's Brigade Toolkit**  
+Co-Author, 2013  
+brigade.codeforamerica.org/tools  
 
 **Executive Director and Co-founder at BetaNYC**  
 March 2009 - Current, New York City, NY  
