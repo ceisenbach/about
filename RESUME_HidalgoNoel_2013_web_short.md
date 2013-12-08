@@ -15,7 +15,7 @@ bit.ly/nyc3-citizen-guide
 Co-Author, 2013  
 brigade.codeforamerica.org/tools  
 
-**Executive Director and Co-founder at BetaNYC**  
+**Executive Director and Co-founder of BetaNYC**  
 March 2009 - Current, New York City, NY  
 
 **Board member of StreetsPAC**  
