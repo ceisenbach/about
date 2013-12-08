@@ -3,16 +3,23 @@
 
 He stands at the crossroads of technology, government, community, and impact. For the last 15 years, he has worked on entrepreneurial ideas that have changed the world. He has traveled extensively advocating for a free and open internet, accessible and participatory government, open source software, and free culture ideas.
 
-Since 2009, he has organized BetaNYC, the nation's largest municipally focused civic technology, open government, and civic startup community. He is the founder of NYC's Drupal community, the #BikeNYC hashtag, and co-founder and executive director of BetaNYC. He was awarded the rank of Eagle Scout and membership to Royal Society for the encouragement of Arts, Manufactures and Commerce.
+Since 2009, he has organized BetaNYC, the nation's largest municipally focused civic technology, open government, and civic startup community. He is the founder of NYC's Drupal community, the #BikeNYC hashtag, and a founding board member of StreetsPAC. In NYC, Noel's as an effective organizer who can walk between worlds and pr He was awarded the rank of Eagle Scout and membership to Royal Society for the encouragement of Arts, Manufactures and Commerce.
 
-**Highlighted Employers & Projects**
+**Highlighted Employers, Projects & Publications**
 
 **The People's Roadmap to a Digital New York City**  
 Co-Author, 2013  
 bit.ly/nyc3-citizen-guide  
 
-**Executive Director and Co-founder at Beta NYC**  
+**Code for America's Brigade Toolkit**
+Co-Author, 2013
+brigade.codeforamerica.org/tools
+
+**Executive Director and Co-founder at BetaNYC**  
 March 2009 - Current, New York City, NY  
+
+**Board member of StreetsPAC**
+April 2013 - Current, New York City, NY  
 
 **New York City Program Manager at Code for America**  
 November 2012 - December 2013, New York City, NY  
@@ -24,9 +31,9 @@ June 2011 - October 2012, New York City, NY and Geneva, CH
 February 2009 - April 2011, New York City and Albany, NY  
 
 **Freelance Video Editor / Citizen Journalist**  
-Clients and partners have included Students for a Free Tibet documenting 2008 Olympic protests in China, promotional videos for Agit-Pop and Twitter VoteReport. As a Citizen Journalist, reports have been featured on RocketBoom, EpicFU / JetSet, GroundReport.tv, Democracy Now!, and ABC's 20/20. Noel keeps a blog on [TechPresident](http://techpresident.com/blog/919), covering technology in government. 
+Clients and partners have included Students for a Free Tibet documenting 2008 Olympic protests in China, promotional videos for Agit-Pop and Twitter VoteReport. As a Citizen Journalist, reports have been featured on RocketBoom, EpicFU / JetSet, GroundReport.tv, Democracy Now!, and ABC's 20/20. Noel keeps a blog on [TechPresident](http://techpresident.com/blog/919), covering engagement technology and open government. 
 
-**Community Organizer Positions**  
+**Featured Community Organizer Positions**  
 
 **Community Manager at Remix America**  
 June 2008 - September 2008, New York, NY  
@@ -41,16 +48,16 @@ September 2006 - February 2009, Brooklyn, NY
 **Volunteer Director and Community Outreach for John Kerry for President**  
 January 2003 – April 2004, Boston, MA  
 
-**Unconferences in New York**  
+**Conferences and Unconferences in New York**  
 Spearheaded the organization of NY's premiere grassroots conversations: NYC BigApps 2013, NY CityCamp 2013, CapitolCamp 1 & 2, BarCamp NYC 2, DrupalCamp NYC 1 & 2, RootsCamp NYC & DC, & PDF Unconference 2007. On average worked with a limited budget of less than $5,000 to host two day conferences for 200 - 500 people. As NYC unconferences have proliferated, many organizers have continued to use best practices my team and I established.
 
 **Blogging Liberally & Living Liberally** 
 Along with members of NYC's political digerati, created a bimonthly salon for bloggers to discuss politics and policy with elected officials and policy makers. This network established a nationwide network of informal conversations helping bloggers and new media pundants better understand the issues at hand.
 
-**Drupal NYC Meetups & DrupalCamp NYC**  
+**Drupal NYC User Group & DrupalCamp NYC**  
 Initiated and organized NYC's Drupal monthly meetups and annual unconference, DrupalCamp. From a small group of 20, the NYC Drupal Community has grown to over 4,000 participants. As for DrupalCamp, NYC initiated the global practice of a free unconference funded by local Drupal Development shops.
 
-**Technology and Digital Positions**
+**Featured Technology and Digital Positions**
 
 **Co-Founder and Advisor at New Amsterdam Ideas, LLC**  
 February 2011 - January 2013, New York City, NY  
