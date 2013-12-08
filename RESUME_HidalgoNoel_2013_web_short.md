@@ -18,7 +18,7 @@ brigade.codeforamerica.org/tools
 **Executive Director and Co-founder at BetaNYC**  
 March 2009 - Current, New York City, NY  
 
-**Board member of StreetsPAC**
+**Board member of StreetsPAC**  
 April 2013 - Current, New York City, NY  
 
 **New York City Program Manager at Code for America**  
