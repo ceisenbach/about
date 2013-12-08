@@ -51,7 +51,7 @@ January 2003 – April 2004, Boston, MA
 **Conferences and Unconferences in New York**  
 Spearheaded the organization of NY's premiere grassroots conversations: NYC BigApps 2013, NY CityCamp 2013, CapitolCamp 1 & 2, BarCamp NYC 2, DrupalCamp NYC 1 & 2, RootsCamp NYC & DC, & PDF Unconference 2007. On average worked with a limited budget of less than $5,000 to host two day conferences for 200 - 500 people. As NYC unconferences have proliferated, many organizers have continued to use best practices my team and I established.
 
-**Blogging Liberally & Living Liberally** 
+**Blogging Liberally & Living Liberally**  
 Along with members of NYC's political digerati, created a bimonthly salon for bloggers to discuss politics and policy with elected officials and policy makers. This network established a nationwide network of informal conversations helping bloggers and new media pundants better understand the issues at hand.
 
 **Drupal NYC User Group & DrupalCamp NYC**  
