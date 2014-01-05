@@ -18,7 +18,7 @@ November 2012 - December 2013, New York City, NY
 Participated in the NYC BigApps 2013 management team. Where over the course of a five month development cycle, 517 people participated in 13 events held with 42 data partners and 12 competition partners. Managed the growth and development of the Code for America Brigade program to design, write, and teach the incoming Brigade Organizer’s Toolkit. During this time managed Code for America’s local relationships with institutional partners and organized five key events introducing Code for America to the New York City community. Over the course of 2013, testified in front of New York City Council twice.
 
 **Associate Director at the World Economic Forum**  
-June 2011 - October 2012, New York City, NY / Geneva, CH
+June 2011 - October 2012, New York City, NY / Geneva, CH  
 Managed a team of five with a $1.5 million budget. The team was responsible for developing and maintaining the Forum's public and private information portals and event registration tools. Launched the World Economic Forum’s Global Shapers website and over saw all aspects of design, development, deployment, and training.
 
 **Director of Technology Innovation at the New York State Senate**  
@@ -80,8 +80,7 @@ Andrea Stewart-Cousins for New York State Senate 2004
 Consulted on the tools and services needed for electoral and issue-based campaigns. Acted as digital communications advisor and voter database analyst; crafted online messages; edited and dispatched mass emails for fundraising and voter awareness; built comprehensive computer networks, and managed distributed voter identification system.
 
 **Consultant to Jay Rosen & NYU's NewAssignment.Net**  
-Summer of 2007  
-New York, NY  
+Summer of 2007, New York, NY  
 Providing Information Architecture; digested and documented NewAssignment.net's Drupal CMS infrastructure and designed a citizen journalism website to cover the 2008 Presidential Primaries and General Elections. Designs and ideas were incorporated into [HuffingtonPost.com](http://HuffingtonPost.com)'s Off the Bus project.
 
 **Digital Communications Coordinator for New York State Senate Minority Leader**  
