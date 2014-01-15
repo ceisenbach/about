@@ -1,15 +1,15 @@
 **Noel A HIDALGO**  
 [noneck.org](http://noneck.org) | [noel@noneck.org](mailto:noel@noneck.org)
 
-He stands at the crossroads of technology, government, community, and impact. For the last 15 years, he has worked on entrepreneurial ideas that have changed the world. He has traveled extensively advocating for a free and open internet, accessible and participatory government, open source software, and free culture ideas.
+He stands at the crossroads of technology, government, community, and impact. For the last 15 years, Noel has worked on entrepreneurial ideas that have changed the world. He has traveled extensively advocating for a free and open internet, accessible and participatory government, open source software, and free culture ideas.
 
-Since 2009, he has organized BetaNYC, the nation's largest municipally focused civic technology, open government, and civic startup community. He is the founder of NYC's Drupal community, the #BikeNYC hashtag, and a founding board member of StreetsPAC. In NYC, Noel's as an effective organizer who can walk between worlds and pr He was awarded the rank of Eagle Scout and membership to Royal Society for the encouragement of Arts, Manufactures and Commerce.
+Since 2009, he has organized BetaNYC, the nation's largest municipally focused civic technology, open government, and civic startup community. He is the founder of NYC's Drupal community, the #BikeNYC hashtag, and a founding board member of StreetsPAC. In NYC, Noel is know a an effective organizer who can walk between worlds. He was awarded the rank of Eagle Scout and membership to Royal Society for the encouragement of Arts, Manufactures and Commerce.
 
 **Highlighted Employers, Projects & Publications**
 
 **The People's Roadmap to a Digital New York City**  
 Co-Author, 2013  
-bit.ly/nyc3-citizen-guide  
+http://NYCroadmap.us  
 
 **Code for America's Brigade Toolkit**  
 Co-Author, 2013  
