@@ -7,7 +7,7 @@ Since 2009, he has organized BetaNYC, a non-profit that is the Nation's largest 
 
 In 2009, he was part of an award winning, pioneering team to rebuild the New York State Senate's Information Technology. He is an Eagle Scout.
 
-**Highlighted Employers, Projects & Publications**
+##Highlighted Employers, Projects & Publications
 
 **The People's Roadmap to a Digital New York City**  
 Co-Author, 2013  
@@ -35,7 +35,7 @@ February 2009 - April 2011, New York City and Albany, NY
 **Freelance Video Editor / Citizen Reporter**  
 Clients and partners included Students for a Free Tibet documenting 2008 Olympic protests in China, promotional videos for Agit-Pop, and Twitter VoteReport. Reports have been featured on RocketBoom, EpicFU / JetSet, GroundReport.tv, Democracy Now!, and ABC's 20/20. Noel keeps a blog on [TechPresident](http://techpresident.com/blog/919), covering engagement technology and open government. 
 
-**Featured Community Organizer Positions**  
+##Featured Community Organizer Positions
 
 **Community Manager at Remix America**  
 June 2008 - September 2008, New York, NY  
@@ -56,7 +56,21 @@ Spearheaded the organization of NY's premiere grassroots conversations: NYC BigA
 **Drupal NYC User Group & DrupalCamp NYC**  
 Initiated and organized NYC's Drupal monthly meetups and annual unconference, DrupalCamp. 
 
-**Featured Technology and Digital Positions**
+**Conference and Events Organizer**  
+Code Across NYC 2013, 2014  
+Code for America Brigade Captain’s Summit and Training, San Francisco, 2013  
+NYC BigApps 2013  
+OpenGov Camp, New York City 2011  
+CapitolCamp, Albany, New York 2009 & 2010  
+O'Reilly Government 2.0 Summit & Expo, Washington DC, 2009 & 2010 (Board member)  
+Open New York Forum, New York City, December 2009  
+LIFT Conference Open-Stage Organizer, Geneva, CH, February 2007 & 2008 & March 2009 
+DrupalCamp NYC 1 and 2, Organizer, New York City, March 2006 & January 2007  
+RootsCamp NYC and DC, Organizer, New York City, November & December 2006  
+BarCamp NYC 2, Organizer, New York City, September 2006  
+Vintage European Scooter Rallies in Boston and NYC, 2000, 2001, 2002, 2003, 2004, & 2005  
+
+##Featured Technology and Digital Positions
 
 **Co-Founder and Advisor at New Amsterdam Ideas, LLC**  
 February 2011 - January 2013, New York City, NY  
@@ -92,21 +106,7 @@ September 1998 – June 2000, Washington, DC
 **Technical Support Manager for EriNet Online Communications**  
 February 1997 – September 1998, Dayton, OH  
 
-**Conference and Events Organizer**  
-Code Across NYC 2013, 2014  
-Code for America Brigade Captain’s Summit and Training, San Francisco, 2013  
-NYC BigApps 2013  
-OpenGov Camp, New York City 2011  
-CapitolCamp, Albany, New York 2009 & 2010  
-O'Reilly Government 2.0 Summit & Expo, Washington DC, 2009 & 2010 (Board member)  
-Open New York Forum, New York City, December 2009  
-LIFT Conference Open-Stage Organizer, Geneva, CH, February 2007 & 2008 & March 2009 
-DrupalCamp NYC 1 and 2, Organizer, New York City, March 2006 & January 2007  
-RootsCamp NYC and DC, Organizer, New York City, November & December 2006  
-BarCamp NYC 2, Organizer, New York City, September 2006  
-Vintage European Scooter Rallies in Boston and NYC, 2000, 2001, 2002, 2003, 2004, & 2005  
-
-**Curation and Public Speaking**  
+###Curation and Public Speaking
 Talking Transition, Curator, New York City, November 2013  
 Voting Information Project Hackathon, Judge, New York City, August 2013  
 DataGotham 2013, Panelist, New York City, September 2013  
