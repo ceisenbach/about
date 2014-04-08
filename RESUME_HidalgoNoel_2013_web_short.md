@@ -3,7 +3,7 @@
 
 He stands at the crossroads of technology, government, community, and impact. His work advocates for a free and open internet, accessible and participatory government, open source software, and free culture.
 
-Since 2009, he has organized BetaNYC, a non-profit that is the Nation's largest municipally focused civic technology, open government, and civic startup community. He is known for co-founding NYC's Drupal community, the #BikeNYC hashtag, and a founding board member of StreetsPAC. Noel is known as an effective organizer who can walk between worlds.
+Since 2009, he has organized [BetaNYC](http://betanyc.us), a non-profit that is the Nation's largest municipally focused civic technology, open government, and civic startup community. He is known for co-founding NYC's Drupal community, the #BikeNYC hashtag, and a founding board member of StreetsPAC. Noel is known as an effective organizer who can walk between worlds.
 
 In 2009, he was part of an award winning, pioneering team to rebuild the New York State Senate's Information Technology. He is an Eagle Scout.
 
@@ -36,6 +36,12 @@ February 2009 - April 2011, New York City and Albany, NY
 Clients and partners included Students for a Free Tibet documenting 2008 Olympic protests in China, promotional videos for Agit-Pop, and Twitter VoteReport. Reports have been featured on RocketBoom, EpicFU / JetSet, GroundReport.tv, Democracy Now!, and ABC's 20/20. Noel keeps a blog on [TechPresident](http://techpresident.com/blog/919), covering engagement technology and open government. 
 
 ##Featured Community Organizer Positions
+
+**Executive Director and Co-founder of BetaNYC**  
+March 2009 - Current, New York City, NY  
+
+**New York City Program Manager at Code for America**  
+November 2012 - December 2013, New York City, NY  
 
 **Community Manager at Remix America**  
 June 2008 - September 2008, New York, NY  
@@ -72,8 +78,14 @@ Vintage European Scooter Rallies in Boston and NYC, 2000, 2001, 2002, 2003, 2004
 
 ##Featured Technology and Digital Positions
 
+**Associate Director at the World Economic Forum**  
+June 2011 - October 2012, New York City, NY and Geneva, CH
+
 **Co-Founder and Advisor at New Amsterdam Ideas, LLC**  
 February 2011 - January 2013, New York City, NY  
+
+**Director of Technology Innovation at the New York State Senate**  
+February 2009 - April 2011, New York City and Albany, NY  
 
 **Creator of TaxiNYC.tv & NYC Yellow Cab Driver**  
 March 2008 – May 2008, New York, NY  
@@ -141,5 +153,5 @@ DigitalBridge Camp, Instructor, Nasik, India, September 2007
 Transitions Online, Instructor, Prague, CZ, July 2007  
 Salzburg Global Seminar, Faculty, Salzburg, Austria, March 2007  
 
-**Technical Skills**  
+###Technical Skills
 Macintosh / Mac OS X, MS Windows, and Microsoft Office and Open Office Suites. Drupal Content Management System, CiviCRM (Contact Relationship Management System), and working knowledge of the LAMP stack. Other technical skills include Git, Markdown, HTML, working knowledge of some web programing languages, and basic video editing software and desktop publishing tools.
