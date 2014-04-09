@@ -1,6 +1,5 @@
 #Noel HIDALGO
-[noneck.org](http://noneck.org)  
-[noel@noneck.org](mailto:noel@noneck.org)  
+[noneck.org](http://noneck.org) | [noel@noneck.org](mailto:noel@noneck.org)  
 
 He stands at the crossroads of technology, government, community, and impact. His work advocates for a free and open internet, accessible and participatory government, open source software, and free culture. His wins have been achieved through patience, organizing groups into effective problem solving teams, and advocating for four universal freedoms for the 21st Century: the freedom of connect, learn, innovate, and collaborate.  
 
@@ -27,16 +26,16 @@ Managed a team of five with a $1.5 million budget. The team was responsible for 
 February 2009 - April 2011, New York City and Albany, NY  
 Primary responsibility included the conception and development of [NYSenate.gov](http://NYSenate.gov), which at the time was considered “_the World’s best legislative website_.” As a product manager, ensured that NYSenate.gov and its associated web products operated seamlessly. Managed an immediate team of six. Oversaw the training and support of 200 users. Provided New Yorkers an award winning suite of websites and mobile tools. Organized and facilitated the first unconference in a State House - CapitolCamp. Additional responsibilities included, advising the Senate’s Chief Information Officer on Government 2.0 innovations and consulted on a number Senate technology projects, including an OS agnostic architecture & bring your own (mobile) device infrastructure.
 
-###Global Explorer on the Luck of Seven
+###Freelance Video Editor / Citizen Reporter
+Clients and partners included Students for a Free Tibet documenting 2008 Olympic protests in China, promotional videos for Agit-Pop and Twitter VoteReport. As a Citizen reporter my pieces have been broadcasted on RocketBoom, EpicFU / JetSet, GroundReport.tv, Democracy Now!, and ABC's 20/20.
+
+####Global Explorer
 December 2005 - March 2009, The World  
 In February 2007, departed NYC for an around-the-world anthropological adventure. Living off of $10,000 fundraised from individuals on internet, the journey took eight months and explored seven free culture topics in 22 countries on the six inhabited continents. Not only was this an experiment in micro-finance/crowd funding, new media and international travel, but an expedition into global social networks and open source communities. Along the way, the projected interviewed internet users, community organizers, and activists. 
 
-###NYC Yellow Cab Driver and Creator of TaxiNYC.tv
+####NYC Yellow Cab Driver and Creator of TaxiNYC.tv
 March 2008 – May 2008, New York, NY  
 Spent two months demystifying the procedures behind becoming a New York City Yellow Cab Driver. By video documenting every step, this project quickly gained an avid following and was featured on National Public Radio. After logging 60 hours behind the wheel and creating 10 short movies, I started consulting for Remix America and focused attention on Not An Alternative's outreach.
-
-###Freelance Video Editor / Citizen Journalist
-Clients and partners have included Students for a Free Tibet documenting 2008 Olympic protests in China, promotional videos for Agit-Pop and Twitter VoteReport. As a Citizen Journalist my reports have been broadcasted on RocketBoom, EpicFU / JetSet, GroundReport.tv, Democracy Now!, and ABC's 20/20.
 
 ##Community Organizer Positions
 
@@ -44,72 +43,18 @@ Clients and partners have included Students for a Free Tibet documenting 2008 Ol
 June 2008 - September 2008, New York, NY  
 Hired after providing indirect consulting. Responsibilities included the coordination of three team members with various political and artistic communities. Over the course of three months, the start up team built and coordinated a volunteer community who produced political remixes and mashups. During the 2008 Democratic National Convention and the Republican National Convention, the community made history by collaborating and producing 30 original political remixes.
 
-**Outreach Coordinator for Not An Alternative, Inc.**  
+###Outreach Coordinator for Not An Alternative, Inc. and Williamsburg Coworking @ The Change You Want to See 
 September 2006 - February 2009, Brooklyn, NY  
 Established Williamsburg Coworking, NYC's first cafe like office environment for independent and freelance workers. Engaged New York City's technology communities offering gallery services and collaborative office space. Researched and established relationships with artists, community projects, and institutions for possible presentations or discussions.
 
-Williamsburg Coworking @ The Change You Want to See 
-Not An Alternative, Inc., Brooklyn, NY
 Organized monthly informational meetings & brunches to build interest in an office space for cultural producers, programmers, theorists, activists, and adventure seekers. The office space in turned produced a profit for Not an Alternative. In the evenings, the space would feature lectures, screenings, and sessions for community organizing.
 
-**Volunteer Director and Community Outreach for John Kerry for President**  
+###Volunteer Director and Community Outreach for John Kerry for President
 January 2003 – April 2004, Boston, MA  
 Starting shortly after John Kerry's reelection to the Senate, I began as a weekly phone bank volunteer and was eventually promoted to managing 50,000 active volunteers. These volunteers were the soul of the campaign. They were the ones who phone banked an estimated 500,000 voters in Iowa and New Hampshire and canvassed New Hampshire. Responsibilities also included management of 20 interns and coordinating statewide John Kerry Meetups.
 
-**Unconferences in New York**  
-Spearheaded the organization of NY's premiere grassroots conversations: NYC BigApps 2013, NY CityCamp 2013, CapitolCamp 1 & 2, BarCamp NYC 2, DrupalCamp NYC 1 & 2, RootsCamp NYC & DC, & PDF Unconference 2007. On average worked with a limited budget of less than $5,000 to host two day conferences for 200 - 500 people. As NYC unconferences have proliferated, many organizers have continued to use best practices my team and I established.
-
-**Blogging Liberally & Living Liberally**  
-Along with members of NYC's political digerati, created a bimonthly salon for bloggers to discuss politics and policy with elected officials and policy makers. This network established a nationwide network of informal conversations helping bloggers and new media pundants better understand the issues at hand.
-
-**Drupal NYC Meetups & DrupalCamp NYC**  
-Initiated and organized NYC's Drupal monthly meetups and annual unconference, DrupalCamp. From a small group of 20, the NYC Drupal Community has grown to over 4,000 participants. As for DrupalCamp, NYC initiated the global practice of a free unconference funded by local Drupal Development shops.
-
-**Technology Positions**  
-
-**Co-Founder and Advisor at New Amsterdam Ideas, LLC**  
-February 2011 - January 2013  
-New York City, NY  
-
-**Communications Consultant and Technical Adviser**  
-Friends of the British Council, 2010  
-Assemble for Rights NYC Campaign 2006 & 2007  
-Cam Kerry for Massachusetts Secretary of State 2005  
-Norman Siegel for NYC Public Advocate 2005  
-New York State Democratic Senate Campaign Committee 2004  
-Andrea Stewart-Cousins for New York State Senate 2004  
-
-Consulted on the tools and services needed for electoral and issue-based campaigns. Acted as digital communications advisor and voter database analyst; crafted online messages; edited and dispatched mass emails for fundraising and voter awareness; built comprehensive computer networks, and managed distributed voter identification system.
-
-**Consultant to Jay Rosen & NYU's NewAssignment.Net**  
-Summer of 2007, New York, NY  
-Providing Information Architecture; digested and documented NewAssignment.net's Drupal CMS infrastructure and designed a citizen journalism website to cover the 2008 Presidential Primaries and General Elections. Designs and ideas were incorporated into [HuffingtonPost.com](http://HuffingtonPost.com)'s Off the Bus project.
-
-**Digital Communications Coordinator for New York State Senate Minority Leader**  
-September 2004 – August 2006, New York, NY  
-With a non-existent budget from the State Senate Majority Leader's office, the Minority Leader's office used limited campaign funds to provide a digital infrastructure to all 48 Senate Democrats. Responsibilities included management of communications infrastructure, contact and voter database management, and acted as a liaison to New York State's digital communities.
-
-**Technology Coordinator for the 2004 Democratic National Convention**  
-April 2004 – August 2004, Boston, MA  
-Faced with a labor dispute that halted convention buildout and a tighter timeline, facilitated daily coordination between 12 departments to accurately manage the deployment of 50,000 telephony/computer connections. Coordinated the supervision of 13 technicians and six interns. 
-
-**Information Technology Specialist for Pelias Technologies**  
-July 2001 – January 2003, formally Infimed Therapeutics, Inc. Cambridge, MA   
-Managed a $200,000 budget and reported directly to the CEO. Responsibilities required weekly reports on infrastructure usage and proposed budgets for new staff acquisitions. During the liquidation of the company, was entrusted by the new owners to security property and liquidation of inventory.
-
-**Network and Special Projects Administrator for netNumina Solutions**  
-June 2000 – January 2001, Cambridge, MA  
-Recruited from Washington DC, responsibilities required extemporaneous solutions and project management. Managed the infrastructure buildout of new office and built a three mile wireless network during statewide labor dispute.
-
-**Micro Computer Consultant for the RAND Corporation**  
-September 1998 – June 2000, Washington, DC  
-Started as a temporary employee to manage shipping and receiving. Within two months, was hired as a full-time staff member due to an extensive knowledge of the Macintosh Operating System and a swift ability to manage multiple projects under tight deadlines. By the time I was recruited by netNumina, responsibilities had expanded to include supervising two staff members, work flow development, research, and systems testing.
-
-**Technical Support Manager for EriNet Online Communications**  
-February 1997 – September 1998, Dayton, OH  
-Reported directly to the CEO, provided software and hardware troubleshooting support for approximately 10,000 users. Responsibilities included the training and management of eight technicians, development and production of technical documentation, and the maintenance of company website.
-
-**Conference** **/ Events** **Organizer**  
+###Conference / Events Organizer
+Code Across NYC 2012, 2013
 Code for America Brigade Captain’s Summit and Training, San Francisco, 2013
 NYC BigApps 2013  
 OpenGov Camp, New York City 2011  
@@ -122,7 +67,51 @@ RootsCamp NYC and DC, Organizer, November & December 2006
 BarCamp NYC 2, Organizer, September 2006  
 Vintage European Scooter Rallies in Boston and NYC, 2000, 2001, 2002, 2003, 2004, & 2005  
 
-**Public Speaking**  
+###Drupal NYC Meetups & DrupalCamp NYC
+Initiated and organized NYC's Drupal monthly meetups and annual unconference, DrupalCamp. From a small group of 20, the NYC Drupal Community has grown to over 4,000 participants. As for DrupalCamp, NYC initiated the global practice of a free unconference funded by local Drupal Development shops.
+
+##Technology Positions
+
+###Co-Founder and Advisor at New Amsterdam Ideas, LLC
+February 2011 - January 2013  
+New York City, NY  
+
+###Communications Consultant and Technical Adviser
+Friends of the British Council, 2010  
+Consultant to Jay Rosen & NYU's NewAssignment.Net, 2007  
+Assemble for Rights NYC Campaign 2006 & 2007  
+Cam Kerry for Massachusetts Secretary of State 2005  
+Norman Siegel for NYC Public Advocate 2005  
+New York State Democratic Senate Campaign Committee 2004  
+Andrea Stewart-Cousins for New York State Senate 2004  
+
+Consulted on the tools and services needed for electoral and issue-based campaigns. Acted as digital communications advisor and voter database analyst; crafted online messages; edited and dispatched mass emails for fundraising and voter awareness; built comprehensive computer networks, and managed distributed voter identification system.
+
+###Digital Communications Coordinator for New York State Senate Minority Leader
+September 2004 – August 2006, New York, NY  
+With a non-existent budget from the State Senate Majority Leader's office, the Minority Leader's office used limited campaign funds to provide a digital infrastructure to all 48 Senate Democrats. Responsibilities included management of communications infrastructure, contact and voter database management, and acted as a liaison to New York State's digital communities.
+
+###Technology Coordinator for the 2004 Democratic National Convention
+April 2004 – August 2004, Boston, MA  
+Faced with a labor dispute that halted convention buildout and a tighter timeline, facilitated daily coordination between 12 departments to accurately manage the deployment of 50,000 telephony/computer connections. Coordinated the supervision of 13 technicians and six interns. 
+
+###Information Technology Specialist for Pelias Technologies
+July 2001 – January 2003, formally Infimed Therapeutics, Inc. Cambridge, MA   
+Managed a $200,000 budget and reported directly to the CEO. Responsibilities required weekly reports on infrastructure usage and proposed budgets for new staff acquisitions. During the liquidation of the company, was entrusted by the new owners to security property and liquidation of inventory.
+
+###Network and Special Projects Administrator for netNumina Solutions
+June 2000 – January 2001, Cambridge, MA  
+Recruited from Washington DC, responsibilities required extemporaneous solutions and project management. Managed the infrastructure buildout of new office and built a three mile wireless network during statewide labor dispute.
+
+###Micro Computer Consultant for the RAND Corporation
+September 1998 – June 2000, Washington, DC  
+Started as a temporary employee to manage shipping and receiving. Within two months, was hired as a full-time staff member due to an extensive knowledge of the Macintosh Operating System and a swift ability to manage multiple projects under tight deadlines. By the time I was recruited by netNumina, responsibilities had expanded to include supervising two staff members, work flow development, research, and systems testing.
+
+###Technical Support Manager for EriNet Online Communications
+February 1997 – September 1998, Dayton, OH  
+Reported directly to the CEO, provided software and hardware troubleshooting support for approximately 10,000 users. Responsibilities included the training and management of eight technicians, development and production of technical documentation, and the maintenance of company website.
+
+##Public Speaking
 Talking Transition, New York City, November 2013  
 Voting Information Project Judge, New York City, August 2013  
 DataGotham 2013, New York City, September 2013  
@@ -157,5 +146,5 @@ DigitalBridge Camp, Nasik, India, Instructor, September 2007
 Transitions Online, Prague, CZ, Instructor, July 2007  
 Salzburg Global Seminar, Salzburg, Austria, Faculty, March 2007  
 
-**Software Skills**  
+##Software Skills
 Macintosh / Mac OS X, MS Windows, and Microsoft Office and Open Office Suites. Drupal Content Management System, CiviCRM (Contact Relationship Management System), and working knowledge of the LAMP stack. Other technical skills include Git, Markdown, HTML, working knowledge of some web programing languages, and basic video editing software and desktop publishing tools.
