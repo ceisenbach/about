@@ -1,44 +1,46 @@
-**Noel A HIDALGO**  
+#Noel HIDALGO
 [noneck.org](http://noneck.org)  
 [noel@noneck.org](mailto:noel@noneck.org)  
 
-For the last 15 years, I have stood at the crossroads of technology, government, community, and innovation. At this intersection, I have worked on entrepreneurial ideas that changed the world. This has been achieved by patience, organizing large groups into effective problem solving teams, and advocating for four universal freedoms for the 21st Century: the freedom of connect, learn, innovate, and collaborate.  
+He stands at the crossroads of technology, government, community, and impact. His work advocates for a free and open internet, accessible and participatory government, open source software, and free culture. His wins have been achieved through patience, organizing groups into effective problem solving teams, and advocating for four universal freedoms for the 21st Century: the freedom of connect, learn, innovate, and collaborate.  
 
-At the age of 18, I was awarded the rank of Eagle Scout. In 2005, I cofounded NYC's Drupal User community. In 2006, I opened NYC's first "coworking" in Williamsburg, Brooklyn. In 2009, christened the #BikeNYC hashtag. Then worked with advocacy groups and individuals to champion its use. Also in 2009, some friends and I kicked of "NYC Open Government" meetup. This has since matured into BetaNYC, the nation’s largest municipal community dedicated to civic technology and open government. In 2009, I was awarded membership to Royal Society for the encouragement of Arts, Manufactures and Commerce.  
+Since 2009, he has organized BetaNYC, a non-profit that is the Nation's largest municipally focused civic technology, open government, and civic startup community. He is known for co-founding NYC's Drupal community, the #BikeNYC hashtag, and a founding board member of StreetsPAC. Noel is known as an effective organizer who can walk between worlds.
 
-**Highlighted Employers & Projects**
+In 2009, he was part of an award winning, pioneering team to rebuild the New York State Senate's Information Technology. He is an Eagle Scout.
 
-**Executive Director and Co-founder at BetaNYC**  
+##Highlighted Employers & Projects
+
+###Executive Director and Co-founder at BetaNYC
 March 2009 - Current  
 New York City, NY  
-Starting in the spring of 2009 as Open NY Forum, BetaNYC has grown to be New York’s civic technology vanguard and the nation’s largest meetup dedicated to civic technology and open government. In 2012 and as part of the New York City Transparency Working Group, the NY City Council passed Local Law 11 of 2012, the most advanced open government data law. Our advocacy has shaped New York City for the 21st Century. In 2013, our advocacy persuaded NYC Economic Development Corporation (NYC EDC) to focus NYC BigApps’ efforts toward community development, local problem solving, and economic development. Our current activities include, weekly event management, partnership and sponsor relations, elected official engagement, long term planning, and community education. Over the course of 2013, notable partners included: NYC City Council, NYC Department of Information Technology and Telecommunications (NYC DoITT), NYC Digital, NYC Department of Education, NYC Department of Transportation, NYC EDC, NY State Office of Information Technology Services (NYS ITS), DataKind, TurboVote, OpenPlans, NYU Rudin Center and Furman Center, Citi Bike, New York Tech Meetup, RedHat Open Shift, CUNY & Pratt University, Streeteasy, NYU Incubator, Blue Ridge Foundation, Coalition for Queens, and New York Law School.  
+BetaNYC is New York’s civic technology vanguard and the nation’s largest municipal organization dedicated to civic technology and open government. BetaNYC's advocacy has shaped New York City for the 21st century. In 2012 and as part of the New York City Transparency Working Group, the NY City Council passed Local Law 11 of 2012, the most advanced open government data law. In 2013, BetaNYC's advocacy persuaded NYC Economic Development Corporation (NYC EDC) to focus NYC BigApps’ efforts toward community development, local problem solving, and economic development. Current activities include, weekly event management, partnership and sponsor relations, elected official engagement, long term planning, and community education.
 
-**New York City Program Manager at Code for America**  
+###New York City Program Manager at Code for America
 November 2012 - December 2013, New York City, NY  
-Participated in the NYC BigApps 2013 management team. Over the course of a five month development cycle, 517 people participated in 13 events held with 42 data partners and 12 competition partners. Managed the growth and development of the Code for America Brigade program to create a national curriculum to teach incoming Brigade Organizers. During this time managed Code for America’s NYC relationships with institutional partners and organized five key events. Over the course of 2013, testified in front of New York City Council twice.
+Participated as NYC BigApps 2013 management team. Over the course of BigApps, 517 people participated in 13 events held with 42 data partners and 12 competition partners. Separately, managed the growth and development of the Code for America Brigade program to create a national curriculum to teach incoming Brigade Organizers.
 
-**Associate Director at the World Economic Forum**  
-June 2011 - October 2012, New York City, NY / Geneva, CH  
+###Associate Director at the World Economic Forum
+June 2011 - October 2012, New York City, NY and Geneva, CH  
 Managed a team of five with a $1.5 million budget. The team was responsible for developing and maintaining the Forum's public and private information portals and event registration tools. Launched the World Economic Forum’s Global Shapers website and over saw all aspects of design, development, deployment, and training.
 
-**Director of Technology Innovation at the New York State Senate**  
+###Director of Technology Innovation at the New York State Senate
 February 2009 - April 2011, New York City and Albany, NY  
-Primary responsibility included the conception and development of [NYSenate.gov](http://NYSenate.gov), which at the time was considered “_the World’s best legislative website_.” Ensured that NYSenate.gov and its associated web products never stopped running. Managed an immediate team of six. Oversaw the training and support of 200 users. Provided New Yorkers an award winning suite of websites and mobile tools. Organized and facilitated the first unconference in a State House - CapitolCamp. Additional responsibilities included, advising the Senate’s Chief Information Officer on Government 2.0 innovations and consulted on a number Senate technology projects, including an OS agnostic architecture & bring your own (mobile) device infrastructure.
+Primary responsibility included the conception and development of [NYSenate.gov](http://NYSenate.gov), which at the time was considered “_the World’s best legislative website_.” As a product manager, ensured that NYSenate.gov and its associated web products operated seamlessly. Managed an immediate team of six. Oversaw the training and support of 200 users. Provided New Yorkers an award winning suite of websites and mobile tools. Organized and facilitated the first unconference in a State House - CapitolCamp. Additional responsibilities included, advising the Senate’s Chief Information Officer on Government 2.0 innovations and consulted on a number Senate technology projects, including an OS agnostic architecture & bring your own (mobile) device infrastructure.
 
-**Global Explorer on the Luck of Seven**  
+###Global Explorer on the Luck of Seven
 December 2005 - March 2009, The World  
 In February 2007, departed NYC for an around-the-world anthropological adventure. Living off of $10,000 fundraised from individuals on internet, the journey took eight months and explored seven free culture topics in 22 countries on the six inhabited continents. Not only was this an experiment in micro-finance/crowd funding, new media and international travel, but an expedition into global social networks and open source communities. Along the way, the projected interviewed internet users, community organizers, and activists. 
 
-**NYC Yellow Cab Driver and Creator of TaxiNYC.tv**  
+###NYC Yellow Cab Driver and Creator of TaxiNYC.tv
 March 2008 – May 2008, New York, NY  
 Spent two months demystifying the procedures behind becoming a New York City Yellow Cab Driver. By video documenting every step, this project quickly gained an avid following and was featured on National Public Radio. After logging 60 hours behind the wheel and creating 10 short movies, I started consulting for Remix America and focused attention on Not An Alternative's outreach.
 
-**Freelance Video Editor / Citizen Journalist**  
+###Freelance Video Editor / Citizen Journalist
 Clients and partners have included Students for a Free Tibet documenting 2008 Olympic protests in China, promotional videos for Agit-Pop and Twitter VoteReport. As a Citizen Journalist my reports have been broadcasted on RocketBoom, EpicFU / JetSet, GroundReport.tv, Democracy Now!, and ABC's 20/20.
 
-**Community Organizer Positions**  
+##Community Organizer Positions
 
-**Community Manager at Remix America**  
+###Community Manager at Remix America
 June 2008 - September 2008, New York, NY  
 Hired after providing indirect consulting. Responsibilities included the coordination of three team members with various political and artistic communities. Over the course of three months, the start up team built and coordinated a volunteer community who produced political remixes and mashups. During the 2008 Democratic National Convention and the Republican National Convention, the community made history by collaborating and producing 30 original political remixes.
 
