@@ -1,7 +1,7 @@
 #Noel HIDALGO
 [noneck.org](http://noneck.org) | [noel@noneck.org](mailto:noel@noneck.org)  
 
-He stands at the crossroads of technology, government, community, and impact. His work advocates for a free and open internet, accessible and participatory government, open source software, and free culture. His wins have been achieved through patience, organizing groups into effective problem solving teams, and advocating for four universal freedoms for the 21st Century: the freedom of connect, learn, innovate, and collaborate.  
+He stands at the crossroads of technology, government, community, and impact. His work advocates for smart communities, participatory government, civic technology, open source software, and free culture. His wins have been achieved through patience, organizing problem solving teams, and advocating for four universal freedoms for the 21st Century: the freedom of connect, learn, innovate, and collaborate.
 
 Since 2009, he has organized BetaNYC, a non-profit that is the Nation's largest municipally focused civic technology, open government, and civic startup community. He is known for co-founding NYC's Drupal community, the #BikeNYC hashtag, and a founding board member of StreetsPAC. Noel is known as an effective organizer who can walk between worlds.
 
