@@ -1,11 +1,11 @@
 #Noel HIDALGO
 [noneck.org](http://noneck.org) | [noel@noneck.org](mailto:noel@noneck.org)
 
-He stands at the crossroads of technology, government, community, and impact. His work advocates for a free and open internet, accessible and participatory government, open source software, and free culture.
+He stands at the crossroads of technology, government, community, and impact. His work advocates for open government, open source software, free culture, and a free and open internet.
 
-Since 2009, he has organized [BetaNYC](http://betanyc.us), a non-profit that is the Nation's largest municipally focused civic technology, open government, and civic startup community. He is known for co-founding NYC's Drupal community, the #BikeNYC hashtag, and a founding board member of StreetsPAC. Noel is known as an effective organizer who can walk between worlds.
+Since 2009, he has organized [BetaNYC](http://beta.nyc), New York City's civic hacker and open government community. BetaNYC is the Nation's largest municipally focused civic technology, open government, and smart communities community. He worked for the New York State Senate and developed award winning technology and introduced open source methodology to state government. At the World Economic Forum, he managed a small engineering team to update their internal technology capacity. At Code for America, he broadened their brigade program's curriculum, impact, and diversity. In New York City, he co-founded NYC's Drupal community, the #BikeNYC hashtag, and is a founding board member of StreetsPAC. Noel is known as an effective organizer who can walk between worlds. 
 
-In 2009, he was part of an award winning, pioneering team to rebuild the New York State Senate's Information Technology. He is an Eagle Scout.
+He is an Eagle Scout.
 
 ##Highlighted Employers, Projects & Publications
 
