@@ -22,6 +22,11 @@ March 2009 - Current
 New York City, NY  
 BetaNYC is New York’s civic technology vanguard and the nation’s largest municipal organization dedicated to civic technology and open government. BetaNYC's advocacy has shaped New York City for the 21st century. In 2012 and as part of the New York City Transparency Working Group, the NY City Council passed Local Law 11 of 2012, the most advanced open government data law. In 2013, BetaNYC's advocacy persuaded NYC Economic Development Corporation (NYC EDC) to focus NYC BigApps’ efforts toward community development, local problem solving, and economic development. Current activities include, weekly event management, partnership and sponsor relations, elected official engagement, long term planning, and community education.
 
+###Fellow at Data and Society Research Institute
+June 2015 - Current
+New York City, NY
+This fellowship will focus on empowering community-based organizations, NYC’s Community Boards, and government employees to understand how data, tools, and culture are unified in today’s civic hacking ethos. The ultimate goal is to develop a workshop that establishes a free, modular, and reusable curriculum that demystifies government and empowers communities interested in civic technology, data, and design.
+
 ###New York City Program Manager at Code for America
 November 2012 - December 2013, New York City, NY  
 Participated as NYC BigApps 2013 management team. Over the course of BigApps, 517 people participated in 13 events held with 42 data partners and 12 competition partners. Separately, managed the growth and development of the Code for America Brigade program to create a national curriculum to teach incoming Brigade Organizers.
