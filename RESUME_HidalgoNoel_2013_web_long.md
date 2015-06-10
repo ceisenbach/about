@@ -1,13 +1,21 @@
 #Noel HIDALGO
 [noneck.org](http://noneck.org) | [noel@noneck.org](mailto:noel@noneck.org)  
 
-He stands at the crossroads of technology, government, community, and impact. His work advocates for smart communities, participatory government, civic technology, open source software, and free culture. His wins have been achieved through patience, organizing problem solving teams, and advocating for four universal freedoms for the 21st Century: the freedom of connect, learn, innovate, and collaborate.
+He stands at the crossroads of technology, government, community, and impact. He believes in participatory communities and uses technology to improve people's lives. His work has been achieved through patience and organizing problem solving teams.
 
-Since 2009, he has organized BetaNYC, a non-profit that is the Nation's largest municipally focused civic technology, open government, and civic startup community. He is known for co-founding NYC's Drupal community, the #BikeNYC hashtag, and a founding board member of StreetsPAC. Noel is known as an effective organizer who can walk between worlds.
+Since 2009, he has organized BetaNYC, a non-profit that is focused on using design, technology, and data to improve the lives of all New Yorkers. He is known for co-founding NYC's Drupal community, the #BikeNYC hashtag, and a founding board member of StreetsPAC. Noel is a published author and known as an effective organizer who can walk between worlds.
 
 In 2009, he was part of an award winning, pioneering team to rebuild the New York State Senate's Information Technology. He is an Eagle Scout.
 
-##Highlighted Employers & Projects
+##Highlighted Employers, Projects, and Publications
+
+**The People's Roadmap to a Digital New York City**  
+Co-Author, 2013  
+http://NYCroadmap.us  
+
+**Code for America's Brigade Toolkit**  
+Co-Author, 2013  
+http://brigade.codeforamerica.org/tools
 
 ###Executive Director and Co-founder at BetaNYC
 March 2009 - Current  
@@ -112,6 +120,8 @@ February 1997 – September 1998, Dayton, OH
 Reported directly to the CEO, provided software and hardware troubleshooting support for approximately 10,000 users. Responsibilities included the training and management of eight technicians, development and production of technical documentation, and the maintenance of company website.
 
 ##Public Speaking
+Socrata Partners Summit, Keynote, Washington DC, May 2015
+Personal Democracy Forum, New York City, June 2014
 Talking Transition, New York City, November 2013  
 Voting Information Project Judge, New York City, August 2013  
 DataGotham 2013, New York City, September 2013  
@@ -147,4 +157,4 @@ Transitions Online, Prague, CZ, Instructor, July 2007
 Salzburg Global Seminar, Salzburg, Austria, Faculty, March 2007  
 
 ##Software Skills
-Macintosh / Mac OS X, MS Windows, and Microsoft Office and Open Office Suites. Drupal Content Management System, CiviCRM (Contact Relationship Management System), and working knowledge of the LAMP stack. Other technical skills include Git, Markdown, HTML, working knowledge of some web programing languages, and basic video editing software and desktop publishing tools.
+Macintosh / Mac OS X, MS Windows, and Microsoft Office and Open Office Suites. Drupal Content Management System, CiviCRM (Contact Relationship Management System), and working knowledge of the LAMP stack. Other technical skills include Git, Markdown, HTML, Markdown, working knowledge of some web programing languages, and basic video editing software and desktop publishing tools.
