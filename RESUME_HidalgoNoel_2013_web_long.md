@@ -18,13 +18,11 @@ Co-Author, 2013
 http://brigade.codeforamerica.org/tools
 
 ###Executive Director and Co-founder at BetaNYC
-March 2009 - Current  
-New York City, NY  
+March 2009 - Current, New York City, NY  
 BetaNYC is New York’s civic technology vanguard and the nation’s largest municipal organization dedicated to civic technology and open government. BetaNYC's advocacy has shaped New York City for the 21st century. In 2012 and as part of the New York City Transparency Working Group, the NY City Council passed Local Law 11 of 2012, the most advanced open government data law. In 2013, BetaNYC's advocacy persuaded NYC Economic Development Corporation (NYC EDC) to focus NYC BigApps’ efforts toward community development, local problem solving, and economic development. Current activities include, weekly event management, partnership and sponsor relations, elected official engagement, long term planning, and community education.
 
 ###Fellow at Data and Society Research Institute
-June 2015 - Current
-New York City, NY
+June 2015 - Current, New York City, NY
 This fellowship will focus on empowering community-based organizations, NYC’s Community Boards, and government employees to understand how data, tools, and culture are unified in today’s civic hacking ethos. The ultimate goal is to develop a workshop that establishes a free, modular, and reusable curriculum that demystifies government and empowers communities interested in civic technology, data, and design.
 
 ###New York City Program Manager at Code for America
@@ -67,7 +65,8 @@ January 2003 – April 2004, Boston, MA
 Starting shortly after John Kerry's reelection to the Senate, I began as a weekly phone bank volunteer and was eventually promoted to managing 50,000 active volunteers. These volunteers were the soul of the campaign. They were the ones who phone banked an estimated 500,000 voters in Iowa and New Hampshire and canvassed New Hampshire. Responsibilities also included management of 20 interns and coordinating statewide John Kerry Meetups.
 
 ###Conference / Events Organizer
-Code Across NYC 2012, 2013
+NYC School of Data 2015
+Code Across NYC 2012, 2013, 2014
 Code for America Brigade Captain’s Summit and Training, San Francisco, 2013
 NYC BigApps 2013  
 OpenGov Camp, New York City 2011  
